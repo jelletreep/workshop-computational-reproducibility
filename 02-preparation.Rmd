@@ -18,7 +18,7 @@ Some of the work we will do will take place over the command line, for which you
 
 -   Windows' default terminal (Command Prompt) uses different commands, so we do not recommend it for this workshop. Instead, as you install Git (next sub-section), you can get the Git Bash terminal with your installation.
 
-If you have no experience with the terminal at all, we recommend practicing with it for some basic folder navigation to start. [This 8.5 minute video](https://www.youtube.com/watch?v=j6vKLJxAKfw) is a good introduction.
+If you have no experience with the terminal at all, we recommend practicing with it for some basic folder navigation to start. [This 8.5 minute video](https://www.youtube.com/watch?v=j6vKLJxAKfw) is a good introduction. Check out chapters 1, 2 and 3 from this [Carpentries course](https://swcarpentry.github.io/shell-novice/) for more information and hands-on exercises to learn how to use the terminal.
 
 ## Git
 
